@@ -4,7 +4,7 @@ Ce document contient les **réponses complètes et détaillées** aux 20 questio
 
 ---
 
-## 🟢 Réponses aux Questions Faciles
+
 
 ### 1. Python - Création de liste
 **Compétence** : Programmation - Python
@@ -445,18 +445,3 @@ export class FormComponent {
   }
 }
 ```
-
----
-
-## 📊 Statistiques
-
-- **Total de questions** : 20
-- **Questions faciles** : 10
-- **Questions difficiles** : 10
-- **Technologies couvertes** : 20+
-- **Langages de programmation** : 10+
-
----
-
-**Créé le** : Janvier 2026  
-**Licence** : MIT
